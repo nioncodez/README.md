@@ -2,7 +2,7 @@
  discord : bleak#3325
 insta : flzzie
 youtube : sprlt
-![Profile View Counter](https://komarev.com/ghpvc/?username=overvalue)
+![](https://komarev.com/ghpvc/?overvalue&color=orange)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=overvalue&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=overvalue&theme=blue-green)
 .
